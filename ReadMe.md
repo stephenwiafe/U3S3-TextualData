@@ -1,4 +1,4 @@
-# U2S3 Textural Data
+# U3S3 Textural Data
 
 * Part A - Foundations 3.3
 * Part B - Student Challenge
